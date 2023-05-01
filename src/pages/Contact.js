@@ -16,7 +16,7 @@ const Contact = () => {
               </div>
               <div class="contact__phone">
                 <i class="fas fa-phone-alt">Phone</i>
-                <div class="text-secondary">+2347066071409</div>
+                <div class="text-secondary">07066071409</div>
             </div>
             <div class="contact__address">
               <i class="fas fa-marker-alt">Address</i>
